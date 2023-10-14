@@ -1,6 +1,6 @@
 # Floro-s-FNF-sf2
 A bunch of FNF sf2 files and FNF chromatics made by me
-+ the offical Floro chrom made by HQC (and also dwp)
+and also the offical Floro chrom made by HQC (and also dwp)
 
 [YOU CAN USE THESE SF2 FILES AND CHROMATICS AS LONG AS YOU CREDIT ME(AND/OR HQC IF YOU USE THE FLORO ONE)!!!!!!!!] (https://www.youtube.com/c/floropichucat)
 
