@@ -10,12 +10,14 @@ List of sf2 so far:
 
 -SpongeBob screaming in vain
 
--SANS_FNF
+-OLD SANS_FNF
 
 (also like most of the sf2 can't do long notes and can sound a bit weird on the higher pitches, ALSO SANS_FNF IS LOUD)
 (and the soundfonts mainly use one sample)
 
 List of Chromatics so far:
+
+-NEW SANS_FNF Chrom
 
 -Figure form Roblox Doors
 
